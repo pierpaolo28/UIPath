@@ -1,2 +1,3 @@
 # UIPath
-UIPath Basic Tutorials
+UIPath Basic Tutorials <br>
+These basic tutorial programs are designed to accomplish: datascraping tasks, sending automatic emails, read and write CSV files, etc...
